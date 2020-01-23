@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": 34,
+      "vendor_id": 29,
+      "spa_date": "2020-01-21",
+      "spa_no": "SPA2020-0130",
+      "sent_to_email": "egi.gustiana@pkpu.org",
+      "sent_to_email_cc": null,
+      "email_subject": null,
+      "body_text": "Assalamualaikum wr wb <br />\n Bersama ini kami kirimkan Surat Perintah Aqiqah (SPA) yang berisi hewan\n                            aqiqah yang siap dipotong.<br /><br /><br />",
+      "sent_at": null,
+      "status_id": 28,
+      "vendor": {
+        "id": 29,
+        "vendor_name": "Embe Ganteng Aqiqah",
+        "address": "Nomaden",
+        "location_id": null,
+        "pic_name": "Egi",
+        "pic_email": "egi.gustiana@pkpu.org",
+        "pic_phone": "085869453950",
+        "is_active": true,
+        "account_no": "001122335544",
+        "telephone": null,
+        "fax": null,
+        "bank_name": "Mandiri",
+        "account_name": "Egi",
+        "status_id": 2,
+        "telegram_no": "085869453950",
+        "telegram_chat_id": 764826707,
+        "telegram_username": "egistra94"
+      },
+      "donationDetail": {
+        "id": 6699,
+        "donation_id": 6858,
+        "description": null,
+        "program_id": null,
+        "amount": "15000000",
+        "amount_eqv": "15000000",
+        "qty": 2,
+        "subtotal": "30000000",
+        "subtotal_eqv": "30000000",
+        "product_id": 187,
+        "brand_id": null,
+        "spa_id": 34,
+        "distribution_location_id": null,
+        "metadata": "{\"aqiqah_name\":\"Egi\",\"distribution_address\":null,\"total_pm\":null,\"photo_validation\":null,\"aqiqah_date\":\"2020-01-24\",\"aqiqah_email_report_status\":null,\"spek_lokasi_pemotongan\":null,\"spek_hewan\":null,\"tipe_hewan\":null,\"hewan_id\":null,\"aqiqah_birth_date\":\"2020-01-21\"}",
+        "amount_applied": "0",
+        "balance": "30000000",
+        "brand_distribution_location_id": null,
+        "aqiqah_no": "2001-130",
+        "aqiqah_status_id": 51,
+        "aqiqah_beneficiary": 2,
+        "vendor_accepted": true,
+        "trans_no": null,
+        "trans_id": null,
+        "telegram_request_sent": false,
+        "aqiqah_reff_id": null
+      }
+    }
+  ]
+}
