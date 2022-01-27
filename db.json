@@ -1,37 +1,37 @@
 {
   "events": [
     {
-      id: 1234,
-      category: 'Ramadhan Program',
-      title: 'Buka Bersama 1443',
-      description: 'Buka Puasa Bersama tahun 1443H',
-      location: 'Bumi Allah',
-      date: 'April 13, 2022',
-      time: '18:00',
-      petsAllowed: false,
-      organizer: 'DKM Masjid'
+      "id": 1234,
+      "category": "Ramadhan Program",
+      "title": "Buka Bersama 1443",
+      "description": "Buka Puasa Bersama tahun 1443H",
+      "location": "Bumi Allah",
+      "date": "April 13, 2022",
+      "time": "18:00",
+      "petsAllowed": false,
+      "organizer": "DKM Masjid"
     },
     {
-      id: 1234,
-      category: 'Ramadhan Program',
-      title: 'Buka Bersama 1443',
-      description: 'Buka Puasa Bersama tahun 1443H',
-      location: 'Bumi Allah',
-      date: 'April 13, 2022',
-      time: '18:00',
-      petsAllowed: false,
-      organizer: 'DKM Masjid'
+      "id": 1234,
+      "category": "Ramadhan Program",
+      "title": "Buka Bersama 1443",
+      "description": "Buka Puasa Bersama tahun 1443H",
+      "location": "Bumi Allah",
+      "date": "April 13, 2022",
+      "time": "18:00",
+      "petsAllowed": false,
+      "organizer": "DKM Masjid"
     },
     {
-      id: 1234,
-      category: 'Ramadhan Program',
-      title: 'Buka Bersama 1443',
-      description: 'Buka Puasa Bersama tahun 1443H',
-      location: 'Bumi Allah',
-      date: 'April 13, 2022',
-      time: '18:00',
-      petsAllowed: false,
-      organizer: 'DKM Masjid'
+      "id": 1234,
+      "category": "Ramadhan Program",
+      "title": "Buka Bersama 1443",
+      "description": "Buka Puasa Bersama tahun 1443H",
+      "location": "Bumi Allah",
+      "date": "April 13, 2022",
+      "time": "18:00",
+      "petsAllowed": false,
+      "organizer": "DKM Masjid"
     }
   ]
 }
