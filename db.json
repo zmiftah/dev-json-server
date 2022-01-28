@@ -12,26 +12,26 @@
       "organizer": "DKM Masjid"
     },
     {
-      "id": 1234,
-      "category": "Ramadhan Program",
-      "title": "Buka Bersama 1443",
-      "description": "Buka Puasa Bersama tahun 1443H",
+      "id": 1235,
+      "category": "Qurban Program",
+      "title": "Distribusi Daging Qurban 1443",
+      "description": "Iedul Adha dan Distribusi Daging Qurban 1443H",
       "location": "Bumi Allah",
-      "date": "April 13, 2022",
-      "time": "18:00",
+      "date": "July 9, 2022",
+      "time": "10:00",
       "petsAllowed": false,
       "organizer": "DKM Masjid"
     },
     {
-      "id": 1234,
-      "category": "Ramadhan Program",
-      "title": "Buka Bersama 1443",
-      "description": "Buka Puasa Bersama tahun 1443H",
+      "id": 1236,
+      "category": "Graduation Program",
+      "title": "Graduation Day from HI 2022",
+      "description": "Graduation Prep and Manyfold Things to Do",
       "location": "Bumi Allah",
-      "date": "April 13, 2022",
-      "time": "18:00",
+      "date": "November 5, 2022",
+      "time": "09:00",
       "petsAllowed": false,
-      "organizer": "DKM Masjid"
+      "organizer": "Myself"
     }
   ]
 }
